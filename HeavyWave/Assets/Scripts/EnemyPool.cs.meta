@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6c1b51aee64b9fa46b44dcd94ac9da2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mEnemy: {fileID: 4095224582534414516, guid: 6809c8e2f089f2e4b87786e957f3e8cf, type: 3}
+  - mBoomerangEnemy: {fileID: 8900228124247125401, guid: 63a6fd3b001d885479b469a300128230, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
